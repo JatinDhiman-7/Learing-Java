@@ -9,7 +9,7 @@ public class AccessTest {
 	System.out.println(car);
 //	car.costOfPurchase=3434;
 	Car newCar=new Car("black","BMW",1,5000);
-    System.out.println(newCar.);
+    System.out.println(newCar);
     Default deefault=new Default();
 	}
 

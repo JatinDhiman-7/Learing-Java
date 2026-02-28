@@ -1,4 +1,4 @@
-package in.kgcoding;
+ package in.kgcoding;
 
 public class Car {
 	public String color;
@@ -30,7 +30,7 @@ public class Car {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-''
+
 	}
 
 }
